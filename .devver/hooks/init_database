@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Hello from the init_database hook"
+echo "If you're seeing this then this test has succeeded!"

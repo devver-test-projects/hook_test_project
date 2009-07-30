@@ -1,0 +1,48 @@
+I, [2009-07-30T14:56:34.321858 #26535]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:34.330972 #26535]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:34.410521 #26535]  INFO -- : Requesting project_id nil
+I, [2009-07-30T14:56:36.433143 #26535]  INFO -- : Syncing test modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.438758 #26535]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.465057 #26535]  INFO -- : Syncing .devver modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.470691 #26535]  INFO -- : Syncing .devver/hooks modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.484686 #26535]  INFO -- : Syncing .devver/hooks/init_database modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:36.498031 #26535]  INFO -- : Syncing .devver/devver_opts.yml modified at Thu Jul 30 14:56:36 -0400 2009
+I, [2009-07-30T14:56:46.902606 #26544]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:46.902915 #26544]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:56:46.983196 #26544]  INFO -- : Requesting project_id 4063885920
+I, [2009-07-30T14:57:28.802469 #26577]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:57:28.802907 #26577]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:57:28.868202 #26577]  INFO -- : Requesting project_id nil
+I, [2009-07-30T14:57:30.543454 #26577]  INFO -- : Syncing test modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.548875 #26577]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.555060 #26577]  INFO -- : Syncing .devver modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.560470 #26577]  INFO -- : Syncing .devver/hooks modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.565763 #26577]  INFO -- : Syncing .devver/hooks/init_database modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:57:30.572427 #26577]  INFO -- : Syncing .devver/devver_opts.yml modified at Thu Jul 30 14:57:30 -0400 2009
+I, [2009-07-30T14:58:00.554083 #26601]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:58:00.554371 #26601]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T14:58:00.624595 #26601]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T14:58:07.075037 #26601]  INFO -- : changed files: [["test/stuff_test.rb", Thu Jul 30 14:57:58 -0400 2009]]
+I, [2009-07-30T14:58:07.075895 #26601]  INFO -- : Syncing test/stuff_test.rb modified at Thu Jul 30 14:57:58 -0400 2009
+I, [2009-07-30T15:00:33.612627 #26882]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:00:33.612929 #26882]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:00:33.682334 #26882]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:00:34.068761 #26882]  INFO -- : changed files: [["db", Thu Jul 30 15:00:12 -0400 2009], ["config", Thu Jul 30 15:00:29 -0400 2009], ["config/database.yml", Thu Jul 30 15:00:29 -0400 2009]]
+I, [2009-07-30T15:00:34.068942 #26882]  INFO -- : Syncing db modified at Thu Jul 30 15:00:12 -0400 2009
+I, [2009-07-30T15:00:34.070751 #26882]  INFO -- : Syncing config modified at Thu Jul 30 15:00:29 -0400 2009
+I, [2009-07-30T15:00:34.072433 #26882]  INFO -- : Syncing config/database.yml modified at Thu Jul 30 15:00:29 -0400 2009
+I, [2009-07-30T15:03:09.635268 #27001]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:03:09.635490 #27001]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:03:09.699991 #27001]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:03:10.068324 #27001]  INFO -- : changed files: [["Rakefile", Thu Jul 30 15:02:57 -0400 2009]]
+I, [2009-07-30T15:03:10.068526 #27001]  INFO -- : Syncing Rakefile modified at Thu Jul 30 15:02:57 -0400 2009
+I, [2009-07-30T15:04:40.502451 #27073]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:04:40.502650 #27073]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:04:40.565103 #27073]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:04:40.950883 #27073]  INFO -- : changed files: [["Rakefile", Thu Jul 30 15:04:31 -0400 2009]]
+I, [2009-07-30T15:04:40.951268 #27073]  INFO -- : Syncing Rakefile modified at Thu Jul 30 15:04:31 -0400 2009
+I, [2009-07-30T15:05:10.319597 #27095]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:05:10.319920 #27095]  INFO -- : client force_sync true and force_reload false
+I, [2009-07-30T15:05:10.385974 #27095]  INFO -- : Requesting project_id 1846053249
+I, [2009-07-30T15:05:10.772894 #27095]  INFO -- : changed files: [["Rakefile", Thu Jul 30 15:05:08 -0400 2009]]
+I, [2009-07-30T15:05:10.773320 #27095]  INFO -- : Syncing Rakefile modified at Thu Jul 30 15:05:08 -0400 2009

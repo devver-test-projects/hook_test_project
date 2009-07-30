@@ -1,0 +1,9 @@
+This project tests Devver hooks.
+
+As of 2009-07-30, only one hook is tested: init_database.  See .devver/hooks/init_database.
+
+The init_database hook is a shell script.  If everything works right, it will
+output a message confirming success, which should be visible in the client.
+
+Note that the stub Rakefile, db directory, and config/database.yml are all
+necessary to trigger execution of the init_database hook.
