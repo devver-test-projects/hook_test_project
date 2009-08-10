@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "=============================================================="
+echo "If you're seeing this, then the install_gems hook is working!"
+echo "=============================================================="
+
+echo "And if you see this that means STDERR is being captured" >&2
+
