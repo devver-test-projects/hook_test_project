@@ -2,3 +2,5 @@ This project tests Devver hooks.
 
 Note that the stub Rakefile, db directory, and config/database.yml are all
 necessary to trigger execution of the prepare_database hook.
+
+[This is a meaningless change]
